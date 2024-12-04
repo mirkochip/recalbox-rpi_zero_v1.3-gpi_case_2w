@@ -26,4 +26,4 @@ Some users, with an overall different setup, have reported encountering a sidewa
 
 In order to fix this issue, you must overwrite the default `recalbox-user-config.txt` config file, sitting on the root folder of your SD card, with the one made available [here](https://github.com/mirkochip/recalbox-rpi_zero_v1.3-gpi_case_2w/blob/main/recalbox-user-config.txt).
 
-Now you should be all set, being ready to enjoy your favorite retro game titles ran by a Raspberri PI Zero v1.3 on a GPi Case 2W!
+Now you should be all set, being ready to enjoy your favorite retro game titles ran by a Raspberry PI Zero v1.3 on a GPi Case 2W!
