@@ -12,7 +12,7 @@ Ensure to flash the right Recalbox v9.2.3-Pulstar image into your SD card. Pleas
 The right procedure to make a bootable Recalbox v9.2.3-Pulstar image for your RPI Zero v1.3 is flashing it through the Raspberry PI Imager tool, being downloadable from [here](https://www.raspberrypi.com/software/). Once you've installed the Imager tool on your computer, go through the following steps:
 
 1. Click on CHOOSE OS and select Recalbox from the Emulation and game OS category.
-2. Select Recalbox - Raspberry Pi Zero / 1 / GPi Case (see image below).
+2. Select Recalbox - Raspberry Pi Zero / 1 / GPiCase1 (see image below).
 3. Flash the image.
 
 ![image](https://github.com/user-attachments/assets/32897574-79ba-43a4-b4ba-014eadeaa59c)
