@@ -1,6 +1,9 @@
 # recalbox-rpi_zero_v1.3-gpi_case_2w
 This repo contains the custom configuration used to successfully boot the retro gaming OS Recalbox v9.2.3-Pulstar from a Raspberry PI Zero v1.3 (2015) bundled with a [Retroflag GPi CASE 2W](https://retroflag.com/gpi_case_2w.html).
 
+![image](https://github.com/user-attachments/assets/8154768a-3842-4089-8b67-35668af06534)
+![image](https://github.com/user-attachments/assets/5edd690a-c433-4803-8934-1811e2d32937)
+
 ### Boot issues and troubleshooting
 Ensure to flash the right Recalbox v9.2.3-Pulstar image into your SD card. Please note that the image named `GPiCase 2W + Raspberry Pi Zero`, being available into the [recalbox website RPI download section](https://www.recalbox.com/download/stable/rpi/) at this [link](https://www.recalbox.com/it/download/stable/rpi/rpizerogpicase2/alternative/) (see also the image below), could be misleading. Once flashed into a SD card, it won't boot on your Rasperry PI Zero v1.3, ending up in a endless black screen.
 
